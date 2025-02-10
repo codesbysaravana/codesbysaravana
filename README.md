@@ -1,6 +1,10 @@
 # 💫 About Me:
-# Hi there, I'm Saravana Priyan C! 👋<br><br>## 🚀 About Me<br>- 🎓 Aspiring Web Developer | Open Source Enthusiast<br>- 🔭 I'm currently working on **React Performance Optimization & Backend Integration**<br>- 🤝 I'm looking to collaborate on **Open Source and Web Development Projects**<br>- 💡 I'm looking for help with **LLMs and Advanced Backend Development**<br>- 🌱 I'm currently learning **Shell Scripting & Redux with Firebase**<br>- 💬 Ask me about **React, JavaScript, and Linux**<br>- ⚡ Fun fact: "I’m passionate about open-source, web development, and building scalable solutions. I love learning, contributing, and staying updated with the latest tech trends!"
-
+Hi, I'm Saravana Priyan C! 👋
+- 💻 Web Developer | Open Source Enthusiast
+- 🔭 Exploring **React Optimization & Backend**
+- 🤝 Open to **collaborations on Web & OSS**
+- 🌱 Learning **Shell Scripting & Firebase with Redux**
+- 💬 Ask me about **React, JavaScript & Linux**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/csaravanapriyan.csaravanapriyan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.saravanaa?igsh=MXQ2MXVleXRvYjM0eg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saravanapriyanc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.saravanapriyan@gmail.com) 
@@ -15,5 +19,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codesbysaravana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
