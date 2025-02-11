@@ -21,7 +21,7 @@ Hi, I'm **Saravana Priyan C**, a passionate Web Developer & Open Source Enthusia
 - **Description:** A modern, fully responsive web application designed to deliver an optimized user experience.
 
 ### 🔹 [Geritch](https://github.com/yourgithub/Geritch)
-- **Tech Stack:** React, Redux
+- **Tech Stack:** MERN stack, Heroku
 - **Description:** A high-performance restaurant website with dynamic UI and state management.
 
 ## 📊 GitHub Stats:
