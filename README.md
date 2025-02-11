@@ -34,22 +34,8 @@ Hi, I'm **Saravana Priyan C**, a passionate Web Developer & Open Source Enthusia
 - **Description:** A high-performance restaurant website with dynamic UI and state management.
 
 ## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codesbysaravana&theme=merko&hide_border=false&include_all_commits=true&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbysaravana&theme=merko&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbysaravana&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=codesbysaravana&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbysaravana&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codesbysaravana&icon=0&color=0)](https://visitcount.itsvg.in)  
