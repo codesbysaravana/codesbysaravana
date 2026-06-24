@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1b2d,70:1a2f4a,100:0d1117&height=130&section=header" />
 
@@ -50,7 +50,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Backend**
 
