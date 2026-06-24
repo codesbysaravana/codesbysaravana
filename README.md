@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1b2d,70:1a2f4a,100:0d1117&height=130&section=header" />
 
@@ -95,7 +95,7 @@
 
 ## 🚀 Featured Project
 
-<div align="center">
+<div align="left">
 
 ### 🔩 MicroOps
 #### *Low-Code DevOps Automation Platform*
@@ -120,7 +120,7 @@ MicroOps gives engineering teams a visual interface to design and execute DevOps
 
 ## 💭 Philosophy
 
-<div align="center">
+<div align="left">
 
 > *"I don't wait until I feel ready.*
 > *I pick something ambitious, break it apart, and learn what I need to build it."*
@@ -148,7 +148,7 @@ $ cat learning_progress.log
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=codesbysaravana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
@@ -164,7 +164,7 @@ $ cat learning_progress.log
 
 ## 🔗 Let's Connect
 
-<div align="center">
+<div align="left">
 
 | Platform | Link |
 |----------|------|
