@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanapriyanc/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codesbysaravana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://your-portfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://portfolio-lemon-beta-53.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=codesbysaravana&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/codesbysaravana)
 
 </div>
@@ -25,14 +25,14 @@
 {
   "name"      : "Saravana Priyan",
   "role"      : "Backend Developer",
-  "degree"    : "B.Tech — Artificial Intelligence & Data Science",
+  "degree"    : "B.Tech, Artificial Intelligence & Data Science",
   "interests" : ["Backend Engineering", "System Design", "Cloud Computing", "Developer Tooling"],
   "mindset"   : "Pick ambitious projects → break them down → learn along the way",
   "status"    : "Building in public 🚀"
 }
 ```
 
-> Passionate about systems that hold under pressure — APIs that don't break, pipelines that run reliably, and infrastructure that scales when it needs to. I combine backend engineering with cloud-native thinking to turn ideas into working products.
+> Passionate about systems that hold under pressure, APIs that don't break, pipelines that run reliably, and infrastructure that scales when it needs to. I combine backend engineering with cloud-native thinking to turn ideas into working products.
 
 ---
 
@@ -168,8 +168,8 @@ $ cat learning_progress.log
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
-| 🌐 **Portfolio** | [your-portfolio.dev](https://your-portfolio.dev) |
+| 💼 **LinkedIn** | [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/saravanapriyanc/) |
+| 🌐 **Portfolio** | [your-portfolio.dev](https://portfolio-lemon-beta-53.vercel.app/) |
 | 🐙 **GitHub** | [github.com/codesbysaravana](https://github.com/codesbysaravana) |
 
 </div>
