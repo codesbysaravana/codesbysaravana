@@ -118,7 +118,8 @@ MicrOps gives engineering teams a visual interface to design and execute DevOps 
 
 **Stack:** Node.js · Jenkins · AWS EC2/S3/ECR · Docker
 
-[→ View Project](http://microps-client.s3-website-ap-southeast-2.amazonaws.com/)
+[→ View Project](https://github.com/codesbysaravana/Microps)
+<br/>
 [→ View Repo](https://github.com/codesbysaravana/MicrOps)
 
 <br/>
@@ -137,6 +138,7 @@ A backend system built to demonstrate how I actually structure production code �
 **Stack:** TypeScript · Drizzle ORM · Docker (multi-stage build)
 
 [→ View Project](https://bookdom-pied.vercel.app/sign-in)
+<br/>
 [→ View Repo](https://github.com/codesbysaravana/BookDom)
 
 ---
