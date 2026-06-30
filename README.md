@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1b2d,70:1a2f4a,100:0d1117&height=130&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saravana+Priyan+%F0%9F%91%8B;Backend+Engineer;Cloud-Native+Builder;Systems+Thinker;I+learn+best+by+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saravana+Priyan+%F0%9F%91%8B;Backend+AI+Automation+Engineer;Cloud-Native+Builder;Systems+Thinker;I+learn+best+by+building." alt="Typing SVG" />
 
 <br/>
 
@@ -24,15 +24,15 @@
 ```json
 {
   "name"      : "Saravana Priyan",
-  "role"      : "Backend Developer",
+  "role"      : "Backend AI Automation Engineer",
   "degree"    : "B.Tech, Artificial Intelligence & Data Science",
-  "interests" : ["Backend Engineering", "System Design", "Cloud Computing", "Developer Tooling"],
+  "interests" : ["Backend Engineering", "Workflow Automation", "Cloud Infrastructure", "AI-Integrated Systems"],
   "mindset"   : "Pick ambitious projects → break them down → learn along the way",
   "status"    : "Building in public 🚀"
 }
 ```
 
-> Passionate about systems that hold under pressure, APIs that don't break, pipelines that run reliably, and infrastructure that scales when it needs to. I combine backend engineering with cloud-native thinking to turn ideas into working products.
+> I design backend systems that automate operational work — deployments, service orchestration, infrastructure workflows — and integrate AI as a working component inside that automation, not as a standalone feature. Systems that hold under pressure, APIs that don't break, pipelines that run reliably.
 
 ---
 
@@ -43,7 +43,7 @@
 | 🔧 | **Backend Systems** | Scalable architectures with Node.js & Java |
 | 🔐 | **API Design** | Authentication flows, RBAC, clean REST interfaces |
 | ☁️ | **Cloud Native** | Building and deploying on AWS |
-| 🚀 | **DevOps** | CI/CD pipelines, platform engineering, deployment workflows |
+| 🚀 | **DevOps Automation** | CI/CD pipelines, platform engineering, deployment workflows |
 | 📐 | **Fundamentals** | DSA, system design, software engineering principles |
 
 ---
@@ -93,28 +93,49 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Work
 
 <div align="left">
 
-### 🔩 MicroOps
+### 🔩 MicrOps
 #### *Low-Code DevOps Automation Platform*
 
 </div>
 
 > **Visual workflows for build, test, deploy, and infrastructure operations — built backend-first.**
 
-MicroOps gives engineering teams a visual interface to design and execute DevOps pipelines — without writing boilerplate config from scratch. Behind the clean UI sits a backend engineered for reliability: workflow orchestration, cloud integrations, and automation pipelines tied together with modern development practices.
+MicrOps gives engineering teams a visual interface to design and execute DevOps pipelines — without writing boilerplate config from scratch. Behind the clean UI sits a backend engineered for reliability: workflow orchestration, cloud integrations, and automation pipelines tied together with modern development practices.
 
 ```
  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
  │    Build     │────▶│     Test     │────▶│    Deploy    │────▶│  Infra Ops   │
  └──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
         │                    │                    │                    │
-        └────────────────────┴──────── Orchestrated by MicroOps ──────┘
+        └────────────────────┴──────── Orchestrated by MicrOps ──────┘
 ```
 
 **Core Concepts:** `Workflow Orchestration` · `Cloud Integrations` · `Automation Pipelines` · `Backend-First Architecture`
+
+**Stack:** Node.js · Jenkins · AWS EC2/S3/ECR · Docker
+
+[→ View Repo](https://github.com/codesbysaravana/MicrOps)
+
+<br/>
+
+<div align="left">
+
+### 📚 University_Library
+#### *Production-Pattern Backend, TypeScript*
+
+</div>
+
+> **The proof-of-engineering piece: clean data layer, containerized for deployment.**
+
+A backend system built to demonstrate how I actually structure production code — not a tutorial clone. Drizzle ORM for type-safe data access, a multi-stage Docker build for a lean production image, and a schema designed around real library-system constraints rather than CRUD demo conventions. ⭐ 53 stars.
+
+**Stack:** TypeScript · Drizzle ORM · Docker (multi-stage build)
+
+[→ View Repo](https://github.com/codesbysaravana/University_Library)
 
 ---
 
@@ -168,8 +189,8 @@ $ cat learning_progress.log
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/saravanapriyanc/) |
-| 🌐 **Portfolio** | [your-portfolio.dev](https://portfolio-lemon-beta-53.vercel.app/) |
+| 💼 **LinkedIn** | [linkedin.com/in/saravanapriyanc](https://www.linkedin.com/in/saravanapriyanc/) |
+| 🌐 **Portfolio** | [portfolio-lemon-beta-53.vercel.app](https://portfolio-lemon-beta-53.vercel.app/) |
 | 🐙 **GitHub** | [github.com/codesbysaravana](https://github.com/codesbysaravana) |
 
 </div>
