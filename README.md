@@ -118,7 +118,7 @@ MicrOps gives engineering teams a visual interface to design and execute DevOps 
 
 **Stack:** Node.js · Jenkins · AWS EC2/S3/ECR · Docker
 
-[→ View Project](http://13.238.226.195/)
+[→ View Project](http://microps.in/)
 <br/>
 [→ View Repo](https://github.com/codesbysaravana/Microps)
 
