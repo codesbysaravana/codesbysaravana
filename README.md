@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanapriyanc/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codesbysaravana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://portfolio-lemon-beta-53.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://saravanapriyanc.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=codesbysaravana&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/codesbysaravana)
 
 </div>
@@ -87,7 +87,9 @@
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
 
 </div>
 
@@ -192,7 +194,7 @@ $ cat learning_progress.log
 | Platform | Link |
 |----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/saravanapriyanc](https://www.linkedin.com/in/saravanapriyanc/) |
-| 🌐 **Portfolio** | [portfolio-lemon-beta-53.vercel.app](https://portfolio-lemon-beta-53.vercel.app/) |
+| 🌐 **Portfolio** | [portfolio-lemon-beta-53.vercel.app](https://saravanapriyanc.vercel.app/) |
 | 🐙 **GitHub** | [github.com/codesbysaravana](https://github.com/codesbysaravana) |
 
 </div>
