@@ -145,6 +145,15 @@ A backend system built to demonstrate how I actually structure production code �
 
 ---
 
+## 🌍 Open Source
+
+| Project | PR | Contribution |
+|---------|----|--------------|
+| **HackerRank hiring-agent** | [#462](https://github.com/interviewstreet/hiring-agent/pull/462) | Ensemble scoring to counter LLM scoring non-determinism: median scores, variance, confidence labels. Fixed 2 bugs. |
+| **kaapi-backend** (ProjectTech4DevAI) | [#1225](https://github.com/ProjectTech4DevAI/kaapi-backend/pull/1225) | Fixed a CWE-209 info-leak vulnerability. Added per-org LLM client caching with invalidation. |
+
+---
+
 ## 💭 Philosophy
 
 <div align="left">
@@ -194,7 +203,7 @@ $ cat learning_progress.log
 | Platform | Link |
 |----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/saravanapriyanc](https://www.linkedin.com/in/saravanapriyanc/) |
-| 🌐 **Portfolio** | [portfolio-lemon-beta-53.vercel.app](https://saravanapriyanc.vercel.app/) |
+| 🌐 **Portfolio** | [saravanapriyanc.vercel.app/](https://saravanapriyanc.vercel.app/) |
 | 🐙 **GitHub** | [github.com/codesbysaravana](https://github.com/codesbysaravana) |
 
 </div>
