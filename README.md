@@ -32,7 +32,7 @@
 }
 ```
 
-> I design backend systems that automate operational work — deployments, service orchestration, infrastructure workflows — and integrate AI as a working component inside that automation, not as a standalone feature. Systems that hold under pressure, APIs that don't break, pipelines that run reliably.
+> I design backend systems that automate operational work - deployments, service orchestration, infrastructure workflows - and integrate AI as a working component inside that automation, not as a standalone feature. Systems that hold under pressure, APIs that don't break, pipelines that run reliably.
 
 ---
 
@@ -104,9 +104,9 @@
 
 </div>
 
-> **Visual workflows for build, test, deploy, and infrastructure operations — built backend-first.**
+> **Visual workflows for build, test, deploy, and infrastructure operations - built backend-first.**
 
-MicrOps gives engineering teams a visual interface to design and execute DevOps pipelines — without writing boilerplate config from scratch. Behind the clean UI sits a backend engineered for reliability: workflow orchestration, cloud integrations, and automation pipelines tied together with modern development practices.
+MicrOps gives engineering teams a visual interface to design and execute DevOps pipelines - without writing boilerplate config from scratch. Behind the clean UI sits a backend engineered for reliability: workflow orchestration, cloud integrations, and automation pipelines tied together with modern development practices.
 
 ```
  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
@@ -128,29 +128,53 @@ MicrOps gives engineering teams a visual interface to design and execute DevOps 
 
 <div align="left">
 
-### 📚 BookDom
-#### *Production-Pattern Backend, TypeScript*
+### 🎙️ Nephele
+#### *Real-Time Voice AI Placement Companion*
 
 </div>
 
-> **The proof-of-engineering piece: clean data layer, containerized for deployment.**
+> **Speak naturally. Get placement guidance back as streamed speech.**
 
-A backend system built to demonstrate how I actually structure production code — not a tutorial clone. Drizzle ORM for type-safe data access, a multi-stage Docker build for a lean production image, and a schema designed around real library-system constraints rather than CRUD demo conventions. ⭐ 53 stars.
+Nephele connects microphone audio, speech recognition, a conversational LLM, and text-to-speech over a WebSocket voice pipeline. Built for interview prep, resume tips, and placement questions, with live transcripts, interruptible responses, and a React interface that starts listening only when you choose to talk.
 
-**Stack:** TypeScript · Drizzle ORM · Docker (multi-stage build)
+**Core Concepts:** `Streaming Audio` · `WebSockets` · `Speech-to-Text → LLM → Text-to-Speech` · `Interruptible Responses`
 
-[→ View Project](https://bookdom-pied.vercel.app/sign-in)
+**Stack:** Python · FastAPI · Deepgram Nova-2 / Aura · OpenAI GPT-4o-mini · React · TypeScript · Vite
+
+*Built by The Cloud PeP Students; tech leads: Saravana & Joshua.*
+
+[→ View Project](https://nephele-production.vercel.app/)
 <br/>
-[→ View Repo](https://github.com/codesbysaravana/BookDom)
+[→ View Repo](https://github.com/codesbysaravana/nephele_production)
 
 ---
 
 ## 🌍 Open Source
 
+Selected contributions, with merged work separated from proposals still under review. Status checked on 15 October 2026.
+
+### ✅ Merged
+
 | Project | PR | Contribution |
 |---------|----|--------------|
-| **HackerRank hiring-agent** | [#462](https://github.com/interviewstreet/hiring-agent/pull/462) | Ensemble scoring to counter LLM scoring non-determinism: median scores, variance, confidence labels. Fixed 2 bugs. |
-| **kaapi-backend** (ProjectTech4DevAI) | [#1225](https://github.com/ProjectTech4DevAI/kaapi-backend/pull/1225) | Fixed a CWE-209 info-leak vulnerability. Added per-org LLM client caching with invalidation. |
+| **Salesforce tough-cookie** | [#650](https://github.com/salesforce/tough-cookie/pull/650) | Cookie-name validation against the HTTP token grammar, with regression tests. Merged 9 October 2026. |
+
+### 🔧 Open for Review
+
+| Project | PR | Contribution |
+|---------|----|--------------|
+| **Google Jib** | [#4536](https://github.com/GoogleContainerTools/jib/pull/4536) | Proposed realm-host trust checks to prevent registry credentials being sent to an unrelated token server. |
+| **Salesforce tough-cookie** | [#651](https://github.com/salesforce/tough-cookie/pull/651) | Internal branded-seconds types for cookie lifetime calculations, preserving public APIs and existing behavior. |
+| **Node.js Undici** | [#5973](https://github.com/nodejs/undici/pull/5973) | Test guards that fail on unexpected disconnects in pipeline GET and echo tests. |
+| **Supertest** | [#912](https://github.com/forwardemail/supertest/pull/912) | Proposed fix for request-body streaming before the ephemeral server starts listening. |
+| **HackerRank hiring-agent** | [#462](https://github.com/interviewstreet/hiring-agent/pull/462) | Proposed ensemble scoring with median scores, variance, and confidence labels to reduce LLM scoring inconsistency. |
+| **kaapi-backend** (ProjectTech4DevAI) | [#1225](https://github.com/ProjectTech4DevAI/kaapi-backend/pull/1225) | Proposed safer error responses for CWE-209 information exposure, plus per-org/project/provider LLM client caching and invalidation. |
+
+### 🧪 Draft
+
+| Project | PR | Contribution |
+|---------|----|--------------|
+| **Javalin** | [#2663](https://github.com/javalin/javalin/pull/2663) | Proposed GraalVM reachability metadata and a native-image smoke workflow. |
 
 ---
 
@@ -163,7 +187,7 @@ A backend system built to demonstrate how I actually structure production code �
 
 </div>
 
-Every project I've shipped has taught me something a tutorial never could — about trade-offs, system behaviour under pressure, and what it means to actually engineer software. I don't collect courses. I collect shipped things.
+Every project I've shipped has taught me something a tutorial never could - about trade-offs, system behaviour under pressure, and what it means to actually engineer software. I don't collect courses. I collect shipped things.
 
 ---
 
