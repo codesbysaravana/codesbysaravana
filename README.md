@@ -164,17 +164,7 @@ Selected contributions, with merged work separated from proposals still under re
 | Project | PR | Contribution |
 |---------|----|--------------|
 | **Google Jib** | [#4536](https://github.com/GoogleContainerTools/jib/pull/4536) | Proposed realm-host trust checks to prevent registry credentials being sent to an unrelated token server. |
-| **Salesforce tough-cookie** | [#651](https://github.com/salesforce/tough-cookie/pull/651) | Internal branded-seconds types for cookie lifetime calculations, preserving public APIs and existing behavior. |
 | **Node.js Undici** | [#5973](https://github.com/nodejs/undici/pull/5973) | Test guards that fail on unexpected disconnects in pipeline GET and echo tests. |
-| **Supertest** | [#912](https://github.com/forwardemail/supertest/pull/912) | Proposed fix for request-body streaming before the ephemeral server starts listening. |
-| **HackerRank hiring-agent** | [#462](https://github.com/interviewstreet/hiring-agent/pull/462) | Proposed ensemble scoring with median scores, variance, and confidence labels to reduce LLM scoring inconsistency. |
-| **kaapi-backend** (ProjectTech4DevAI) | [#1225](https://github.com/ProjectTech4DevAI/kaapi-backend/pull/1225) | Proposed safer error responses for CWE-209 information exposure, plus per-org/project/provider LLM client caching and invalidation. |
-
-### 🧪 Draft
-
-| Project | PR | Contribution |
-|---------|----|--------------|
-| **Javalin** | [#2663](https://github.com/javalin/javalin/pull/2663) | Proposed GraalVM reachability metadata and a native-image smoke workflow. |
 
 ---
 
